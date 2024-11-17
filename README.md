@@ -34,13 +34,21 @@ Available Actions:
 
 ## Version History
 
-- Version 1.00
-
-
-- Version 1.01
-
-- Version 1.02
-
-- Version 1.03
-
-
+- v0.2
+  - Features Added:
+    - Implemented a comprehensive Rules Menu to explain the mechanics of the game.
+    - Detailed how each action (Sword, Spear, Club, Shield, Wand) interacts with others.
+    - Rules menu provides clarity for new players and sets the foundation for the game modes.
+- v0.3
+  - Features Added:
+    - Introduced the Score Match game mode.
+    - Players compete over a set number of rounds.
+    - Scoring system rewards successful attacks and bonus points for streaks.
+    - Declares the winner based on total points at the end of the match.
+- v1.0
+  - Features Added:
+    - Added the Health Match game mode.
+    - Players start with 5 health points.
+    - The objective is to reduce the opponent’s health to 0 first.
+    - Rules for action interactions expanded to include damage and defense mechanics.
+    - Completed and finalized core gameplay mechanics, making the game fully playable.
