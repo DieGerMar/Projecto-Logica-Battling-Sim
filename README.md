@@ -33,7 +33,9 @@ Available Actions:
 
 
 ## Version History
-
+- v0.1
+  - Features Added:
+    - Implemented the Menu.
 - v0.2
   - Features Added:
     - Implemented a comprehensive Rules Menu to explain the mechanics of the game.
