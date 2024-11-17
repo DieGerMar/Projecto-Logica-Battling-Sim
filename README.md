@@ -1,4 +1,4 @@
-# Battle Sim V1.0
+# Battle Sim V1.1
 
 
 
@@ -52,3 +52,6 @@ Available Actions:
     - The objective is to reduce the opponent’s health to 0 first.
     - Rules for action interactions expanded to include damage and defense mechanics.
     - Completed and finalized core gameplay mechanics, making the game fully playable.
+- v1.1
+  - Features Added:
+     - 
