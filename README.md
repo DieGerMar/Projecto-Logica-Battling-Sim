@@ -22,7 +22,8 @@
 ### Rules Menu:
 
 Learn the rules for each game mode and understand the mechanics of available actions.
-Available Actions
+
+Available Actions:
 - Sword: Beats Spear.
 - Spear: Beats Club.
 - Club: Beats Sword.
