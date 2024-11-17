@@ -56,5 +56,6 @@ Available Actions:
     - Completed and finalized core gameplay mechanics, making the game fully playable.
 - v1.1
   - Minor Changes:
-    - Invalid inputs in Score Match now results in a forfeit.
+    - Invalid inputs in Score Match now sends yyou back to the Main Menu.
     - Players now gain streak when they choose the same action. (Used to reset streak).
+    - Score match now shows the selected action after the round is over.
