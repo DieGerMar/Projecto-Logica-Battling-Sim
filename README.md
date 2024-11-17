@@ -53,5 +53,6 @@ Available Actions:
     - Rules for action interactions expanded to include damage and defense mechanics.
     - Completed and finalized core gameplay mechanics, making the game fully playable.
 - v1.1
-  - Features Added:
-     - 
+  - Minor Changes:
+    - Invalid inputs in Score Match now results in a forfeit.
+    - Players now gain streak when they choose the same action. (Used to reset streak).
